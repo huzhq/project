@@ -1,2 +1,0 @@
-CH_TFS_Adress：10.3.15.68 
-JXKJ_TFS_Adress：211.149.191.113 
